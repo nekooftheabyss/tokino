@@ -27,4 +27,6 @@ $ pnpm i # PNPM
 $ node clock.js
 ```
 
+**MAKE SURE THAT THE BOT HAS PERMISSIONS TO EDIT CHANNELS, OR AT LEAST THAT SPECIFIC CHANNEL.**
+
 Need the bot to not die after closing your terminal? Check out [PM2](https://pm2.keymetrics.io/).
