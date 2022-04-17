@@ -1,0 +1,6 @@
+{
+	"type": "module",
+	"dependencies": {
+		"eris": "^0.16.1"
+	}
+}
